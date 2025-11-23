@@ -51,7 +51,7 @@ STEP 2 : Installation and Execution
 
 Clone the repository:
 
-git clone https://github.com/saranshmathur567-star/STUDENT-MANAGEMENT-SYSTEM-
+git clone https://github.com/saranshmathur567-star/STUDENT-MANAGEMENT-SYSTEM-.git
 
 
 STEP 3 : Run the application:
